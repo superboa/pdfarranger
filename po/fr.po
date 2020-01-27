@@ -162,7 +162,7 @@ msgstr "Rogner"
 
 #: data/pdfarranger.ui.h:7
 msgid "Du_plicate"
-msgstr "Dupliquer"
+msgstr "Du_pliquer"
 
 #: data/pdfarranger.ui.h:8
 msgid "Reverse Order"
